@@ -19,7 +19,7 @@ export default function Home() {
     <main className='bg-white px-10 md:text-center md:px-20 lg:px-40 dark:bg-gray-950 dark:text-white'>
        <section  className='min-h-screen'>
          <nav className='py-10 mb-12 flex justify-between'>
-          <h1 className='text-xl font-serif'>Matias Riosa's Portfolio</h1>
+          <h1 className='text-xl font-serif'>Matias Riosa&apos;s Portfolio</h1>
           <ul className = "flex items-center">
             <li><BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className='cursor-pointer text-2xl'/></li>
           </ul>
@@ -43,13 +43,13 @@ export default function Home() {
          </div>
          <div className='text-5xl flex justify-center gap-16 py-3 text-gray-800 dark:text-gray-200'>
             <button>
-             <a href="www.linkedin.com/in/matias-riosa-5a8921180" class="services__links">
+             <a href="www.linkedin.com/in/matias-riosa-5a8921180" className="services__links">
               <AiFillLinkedin/>
               </a>
             </button>
             
             <button>
-             <a href="https://github.com/m-riosa" class="services__links">
+             <a href="https://github.com/m-riosa" className="services__links">
               <AiFillGithub/>
               </a>
             </button>
@@ -61,7 +61,7 @@ export default function Home() {
        </section>
        <section>
         <div>
-          <h3 className='text-3xl py-1 flex justify-center'>Projects I've worked on</h3>  
+          <h3 className="text-3xl py-1 flex justify-center">Projects I&apos;ve worked on</h3>  
         </div>
         <div className='gap-10 justify-center flex flex-col lg:flex-row lg:flex-wrap dark:text-gray-100'>
           <div className='text-center shadow-lg p-10 my-10 basis-1/3 flex-1 dark:bg-gray-900'>
@@ -76,7 +76,7 @@ export default function Home() {
               <p className='text-gray-700 dark:text-white'>Postman API platform</p>
               <div className= 'pt-5'>
                 <button className="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                  <a href="https://github.com/m-riosa/FutHub-app" class="services__links">
+                  <a href="https://github.com/m-riosa/FutHub-app" className="services__links">
                     View on GitHub
                   </a>
                 </button>
@@ -92,7 +92,7 @@ export default function Home() {
               <p className='text-gray-700 dark:text-white'>C</p>
               <div className= 'pt-5'>
                 <button className="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                  <a href="https://github.com/m-riosa/othello-game" class="services__links">
+                  <a href="https://github.com/m-riosa/othello-game" className="services__links">
                     View on GitHub
                   </a>
                 </button>
@@ -106,7 +106,7 @@ export default function Home() {
               <p className='text-gray-700 dark:text-white'>Tailwind</p>
               <div className= 'pt-5'>
                 <button className="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                  <a href="https://github.com/m-riosa/matias-wesbite" class="services__links">
+                  <a href="https://github.com/m-riosa/matias-wesbite" className="services__links">
                     View on GitHub
                   </a>
                 </button>
