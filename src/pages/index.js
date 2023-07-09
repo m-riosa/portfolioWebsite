@@ -43,7 +43,7 @@ export default function Home() {
          </div>
          <div className='text-5xl flex justify-center gap-16 py-3 text-gray-800 dark:text-gray-200'>
             <button>
-             <a href="www.linkedin.com/in/matias-riosa-5a8921180" className="services__links">
+             <a href="https://www.linkedin.com/in/matias-riosa-5a8921180" className="services__links">
               <AiFillLinkedin/>
               </a>
             </button>
