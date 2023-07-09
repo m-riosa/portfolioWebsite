@@ -107,9 +107,28 @@ export default function Home() {
               <p className='text-gray-700 dark:text-white'>JS</p>
               <p className='text-gray-700 dark:text-white'>React</p>
               <p className='text-gray-700 dark:text-white'>Tailwind</p>
+              <p className='text-gray-700 dark:text-white'>Vercel</p>
               <div className= 'pt-5'>
                 <button className="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                   <a href="https://github.com/m-riosa/portfolioWebsite" className="services__links">
+                    View on GitHub
+                  </a>
+                </button>
+              </div>
+          </div>
+          <div className='text-center shadow-lg p-10 my-10 basis-1/3 flex-1  dark:bg-gray-900'>
+              <div className='flex justify-center'>
+                <Image src="/images/next-js-logo.png" width="250" height = "250" alt="nextJS Logo"/>
+              </div>
+              <h3 className='text-lg font-medium'>Twitter clone for Emojis</h3>
+              <p className='text-gray-700 py-1 dark:text-white'>Tools used:</p>
+              <p className='text-gray-700 dark:text-white'>JS</p>
+              <p className='text-gray-700 dark:text-white'>Next JS</p>
+              <p className='text-gray-700 dark:text-white'>Tailwind</p>
+              <p className='text-gray-700 dark:text-white'>Prisma</p>
+              <div className= 'pt-5'>
+                <button className="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                  <a href="https://github.com/m-riosa/tweety" className="services__links">
                     View on GitHub
                   </a>
                 </button>
