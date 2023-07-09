@@ -66,7 +66,7 @@ export default function Home() {
         <div className='gap-10 justify-center flex flex-col lg:flex-row lg:flex-wrap dark:text-gray-100'>
           <div className='text-center shadow-lg p-10 my-10 basis-1/3 flex-1 dark:bg-gray-900'>
               <div className='flex justify-center'>
-                <Image src="/images/Messi WC Picture.jpeg" width="250" height = "250" alt="FutHubImage"/>
+                <Image src="/images/FutHub.jpeg" width="250" height = "250" alt="FutHubImage"/>
               </div>
               <h3 className='text-lg font-medium'>FutHub app</h3>
               <p className='text-gray-700 py-1 dark:text-white'>Tools used:</p>
