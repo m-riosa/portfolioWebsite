@@ -91,7 +91,7 @@ export default function Home() {
               <p className='text-gray-700 py-1 dark:text-white'>Tools used:</p>
               <p className='text-gray-700 dark:text-white'>Java</p>
               <p className='text-gray-700 dark:text-white'>Android Studio</p>
-              <p className='text-gray-700 dark:text-white'>Google's ML Kit</p>
+              <p className='text-gray-700 dark:text-white'>Google&apos;s ML Kit</p>
               <div className= 'pt-5'>
                 <button className="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                   <a href="https://github.com/m-riosa/Language_Translator/tree/master" className="services__links">
