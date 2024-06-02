@@ -85,16 +85,16 @@ export default function Home() {
           </div>
           <div className='text-center shadow-lg p-10 my-10 basis-1/3 flex-1 dark:bg-gray-900'>
               <div className='flex justify-center'>
-                <Image src="/images/translate.png" width="250" height = "250" alt="TranslateImg"/>
+                <Image src="/images/ParkPal.png" width="250" height = "250" alt="TranslateImg"/>
               </div>
-              <h3 className='text-lg font-medium'>Language Translator for Android</h3>
+              <h3 className='text-lg font-medium'>Park Parl App</h3>
               <p className='text-gray-700 py-1 dark:text-white'>Tools used:</p>
-              <p className='text-gray-700 dark:text-white'>Java</p>
+              <p className='text-gray-700 dark:text-white'>Flutter</p>
               <p className='text-gray-700 dark:text-white'>Android Studio</p>
-              <p className='text-gray-700 dark:text-white'>Google&apos;s ML Kit</p>
+              <p className='text-gray-700 dark:text-white'>Queue Times API</p>
               <div className= 'pt-5'>
                 <button className="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                  <a href="https://github.com/m-riosa/Language_Translator/tree/master" className="services__links">
+                  <a href="https://github.com/m-riosa/ParkPalApp" className="services__links">
                     View on GitHub
                   </a>
                 </button>
@@ -118,19 +118,18 @@ export default function Home() {
                 </button>
               </div>
           </div>
-          <div className='text-center shadow-lg p-10 my-10 basis-1/3 flex-1  dark:bg-gray-900'>
+          <div className='text-center shadow-lg p-10 my-10 basis-1/3 flex-1 dark:bg-gray-900'>
               <div className='flex justify-center'>
-                <Image src="/images/next-js-logo.png" width="250" height = "250" alt="nextJS Logo"/>
+                <Image src="/images/translate.png" width="250" height = "250" alt="TranslateImg"/>
               </div>
-              <h3 className='text-lg font-medium'>Twitter clone for Emojis</h3>
+              <h3 className='text-lg font-medium'>Language Translator for Android</h3>
               <p className='text-gray-700 py-1 dark:text-white'>Tools used:</p>
-              <p className='text-gray-700 dark:text-white'>JS</p>
-              <p className='text-gray-700 dark:text-white'>Next JS</p>
-              <p className='text-gray-700 dark:text-white'>Tailwind</p>
-              <p className='text-gray-700 dark:text-white'>Prisma</p>
+              <p className='text-gray-700 dark:text-white'>Java</p>
+              <p className='text-gray-700 dark:text-white'>Android Studio</p>
+              <p className='text-gray-700 dark:text-white'>Google&apos;s ML Kit</p>
               <div className= 'pt-5'>
                 <button className="bg-blue-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                  <a href="https://github.com/m-riosa/tweety" className="services__links">
+                  <a href="https://github.com/m-riosa/Language_Translator/tree/master" className="services__links">
                     View on GitHub
                   </a>
                 </button>
