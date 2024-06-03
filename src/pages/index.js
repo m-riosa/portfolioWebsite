@@ -30,9 +30,9 @@ export default function Home() {
             <p className='text-md pt-5 pb-1 leading-8 text-gray-500 dark:text-gray-200'>About me: </p>
             <p className='text-md pt-1 pb-1 leading-8 text-gray-500 max-w-3xl mx-auto  dark:text-gray-200'>
                 Hello, I am a current student at the University of Central Florida studying Computer Science.
-                I have completed degrees in Finance and Marketing in the past and after some time in the field I decided that 
+                I have completed degrees in Finance and Marketing in the past and after some time in the field I decided that I
                 wanted to pursue my interest in Computer Science, so after a great deal of individual learning I decided it would be most beneficial
-                to return to school. I am now currently on track to graduate in 2024.
+                to return to school. I am now currently on track to graduate in Spring 2025.
 
             </p> 
             <p className='text-md pt-1 pb-1 leading-8 text-gray-500 max-w-3xl mx-auto  dark:text-gray-200'>
